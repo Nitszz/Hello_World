@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int a = 3;
+int a = 10;
 int i = 0;
 
 int main()
